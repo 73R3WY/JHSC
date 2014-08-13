@@ -1,0 +1,35 @@
+About JerJer Wireless Suite
+
+THIS SOFTWARE IS PROVIDED FREE FOR ALL
+DOWNLOAD AND USE (PERSONAL OR COMMERCIAL).
+BY DOWNLOADING AND USING THIS SOFTWARE, THE USER SHALL NOT HOLD
+THE PROGRAMMER/AUTHOR LIABLE FOR ANY DAMAGE (SOFTWARE OR HARDWARE)
+THAT MAY RESULT IN IMPROPER USE OF THIS SOFTWARE.
+
+Operating system requirement: Microsoft Windows Vista, 7, 8, 8.1
+Hardware requirement: A compatible wireless card for windows
+                      that can support hosted networking.
+
+Run this software as Administrator.
+
+This software is a standalone wireless suite for establishing
+hostednetwork or Wi-Fi Hotspot. This software does not install any
+additional software or driver in providing support for making a
+hotspot because it implements the native windows support for making
+a hotspot using the windows built-in "netsh" command. No files will
+be created and no registry values will be registered by using this
+program.
+
+Using this software also allow you to view the current registered networks
+and wireless configurations.
+
+This software just creates a hotspot BUT not share the internet connection
+to the connected clients. So if you want to share the internet connection,
+please go to my website for a simple tutorial on how to share internet
+connection through the created hotspot.
+
+This software is programmed in C.
+
+[1] Go to my (W)ebsite.
+[2] (G)o back.
+[3] e(X)it
